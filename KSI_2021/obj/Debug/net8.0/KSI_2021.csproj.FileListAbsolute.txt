@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\obj\Debug\net8.0\KSI_2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\obj\Debug\net8.0\KSI_2021.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\obj\Debug\net8.0\KSI_2021.AssemblyInfo.cs
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\obj\Debug\net8.0\KSI_2021.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\bin\Debug\net8.0\KSI_2021.exe
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\bin\Debug\net8.0\KSI_2021.deps.json
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\bin\Debug\net8.0\KSI_2021.runtimeconfig.json
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\bin\Debug\net8.0\KSI_2021.dll
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\bin\Debug\net8.0\KSI_2021.pdb
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\obj\Debug\net8.0\KSI_2021.dll
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\obj\Debug\net8.0\refint\KSI_2021.dll
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\obj\Debug\net8.0\KSI_2021.pdb
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\obj\Debug\net8.0\KSI_2021.genruntimeconfig.cache
+C:\Users\PC\Desktop\CS Projects\KSI_PU\KSI_2021\obj\Debug\net8.0\ref\KSI_2021.dll
