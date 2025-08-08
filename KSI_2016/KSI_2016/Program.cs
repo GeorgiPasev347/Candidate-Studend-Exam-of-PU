@@ -31,3 +31,4 @@ Console.WriteLine($"{avera:F2}");
    
 
 
+
