@@ -24,7 +24,10 @@ else
     {
         Console.WriteLine(students1.ToString());
     }
+    decimal avera=students.Average(s=>s.Ocenka);
+Console.WriteLine($"{avera:F2}");
 }
 
    
+
 
