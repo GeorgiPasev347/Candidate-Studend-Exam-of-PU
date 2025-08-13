@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\bin\Debug\net8.0\KSI2015_1.exe
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\bin\Debug\net8.0\KSI2015_1.deps.json
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\bin\Debug\net8.0\KSI2015_1.runtimeconfig.json
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\bin\Debug\net8.0\KSI2015_1.dll
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\bin\Debug\net8.0\KSI2015_1.pdb
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\obj\Debug\net8.0\KSI2015_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\obj\Debug\net8.0\KSI2015_1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\obj\Debug\net8.0\KSI2015_1.AssemblyInfo.cs
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\obj\Debug\net8.0\KSI2015_1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\obj\Debug\net8.0\KSI2015_1.dll
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\obj\Debug\net8.0\refint\KSI2015_1.dll
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\obj\Debug\net8.0\KSI2015_1.pdb
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\obj\Debug\net8.0\KSI2015_1.genruntimeconfig.cache
+C:\Users\PC\Desktop\KSI2015_1\KSI2015_1\KSI2015_1\obj\Debug\net8.0\ref\KSI2015_1.dll
