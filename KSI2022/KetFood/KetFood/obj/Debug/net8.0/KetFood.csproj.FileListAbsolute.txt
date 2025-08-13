@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\bin\Debug\net8.0\KetFood.exe
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\bin\Debug\net8.0\KetFood.deps.json
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\bin\Debug\net8.0\KetFood.runtimeconfig.json
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\bin\Debug\net8.0\KetFood.dll
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\bin\Debug\net8.0\KetFood.pdb
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\obj\Debug\net8.0\KetFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\obj\Debug\net8.0\KetFood.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\obj\Debug\net8.0\KetFood.AssemblyInfo.cs
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\obj\Debug\net8.0\KetFood.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\obj\Debug\net8.0\KetFood.dll
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\obj\Debug\net8.0\refint\KetFood.dll
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\obj\Debug\net8.0\KetFood.pdb
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\obj\Debug\net8.0\KetFood.genruntimeconfig.cache
+C:\Users\PC\Desktop\KSI2022\KetFood\KetFood\obj\Debug\net8.0\ref\KetFood.dll
